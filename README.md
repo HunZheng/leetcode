@@ -23,7 +23,9 @@ LeetCode
 |2020.7.23| [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)|[张颖](./php/zhangying/7.23zhangying.php)|[李岩](./php/liyan/7.23liyan.php)
 |2020.7.24| [19.删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[张颖](./php/zhangying/7.24zhangying.php)|[李岩](./php/liyan/7.24liyan.php)
 |2020.7.27| [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[张颖](./php/zhangying/7.27zhangying.php)|[李岩](./php/liyan/7.27liyan.php)
-|2020.7.28-31| 复习一下这月做过的所有题，链表这块最后还有几道难题做一下就算过了|看一下所有解法|---
+|2020.7.28-31| 复习一下这月做过的所有题|看一下所有解法|---
+|2020.7.28-31| [链表题汇总](https://leetcode-cn.com/tag/linked-list/) 链表这块最后还有几道难题做一下就算过了|剩下的自己看看|---
+
 
 
 
